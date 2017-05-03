@@ -1,9 +1,11 @@
 # jruby_ssl_issue
 Example of an issue encountered with SMIME under JRuby
 
+```
 bundle install
 assuming .ruby-version is respected, otherwise ensure `ruby` invokes JRuby 9.1.8.0
 ruby test.rb
+```
 
 Expected Behaviour:
 
