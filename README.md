@@ -36,4 +36,5 @@ Actual Behaviour:
 TypeError: nil is not a string
   write_smime at org/jruby/ext/openssl/PKCS7.java:197
        <main> at test.rb:11
-rory@Eddie:jruby_ssl_issue(master) $ ```
+rory@Eddie:jruby_ssl_issue(master) $ 
+```
