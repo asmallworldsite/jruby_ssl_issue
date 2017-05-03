@@ -1,0 +1,14 @@
+GEM
+  remote: https://www.rubygems.org/
+  specs:
+    jruby-openssl (0.9.20-java)
+
+PLATFORMS
+  java
+  ruby
+
+DEPENDENCIES
+  jruby-openssl
+
+BUNDLED WITH
+   1.14.6
