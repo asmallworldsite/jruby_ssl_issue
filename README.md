@@ -1,6 +1,8 @@
 # jruby_ssl_issue
 Example of an issue encountered with SMIME under JRuby
 
+I followed the instructions here to generate a valid p12 file with a self-signed certificate and private key: http://help.globalscape.com/help/secureserver3/Generating_a_PKCS_12_private_key_public_certificate.htm
+
 ```
 bundle install
 assuming .ruby-version is respected, otherwise ensure `ruby` invokes JRuby 9.1.8.0
